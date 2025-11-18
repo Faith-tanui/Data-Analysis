@@ -3,17 +3,18 @@
 ### Power BI • SQL • Data Cleaning • Insight Storytelling
 
 This project is based on the **Digital Marketing Performance Dataset** by Slidescope (via ColorsTech):
-[https://colorstech.net/practice-datasets/digital-marketing-performance-dataset-by-slidescope-for-data-analytics-and-bi-projects/](https://colorstech.net/practice-datasets/digital-marketing-performance-dataset-by-slidescope-for-data-analytics-and-bi-projects/)
-
 I used the dataset to create an end-to-end marketing analytics project that shows my skills in cleaning messy data, building dashboards in Power BI, creating accurate DAX measures, and communicating insights that drive business decisions.
 
 ---
 
-## 🔍 **Project Overview**
+## 📍 **Project Overview**
+Goal: To understand how different channels, products, regions, and seasons influence marketing effectiveness and revenue outcomes in order to optimize Marketing spend and maximize ROI
 
-The goal of this project is to understand how different marketing channels, products, regions, and seasons impact overall performance. I aimed at answering questions like:
+Business Context/Problem: 
+To get insights on which strategies deliver the highest returns, we assess the efficiency of the channels, product profitability, audience response, and seasonal trends.
+Therefore, I aimed at answering questions like:
 
-* Which channels generate the most revenue?
+* Which channels generate the most revenue and ROI?
 * Which channels are the most efficient?
 * Which products are worth investing more in?
 * Which regions perform best?
@@ -22,11 +23,14 @@ The goal of this project is to understand how different marketing channels, prod
 
 This project shows my ability to turn raw data into a clear, actionable story that a marketing or business team could use to make strategic decisions.
 
+Data Source:
+Digital Marketing Performance Dataset by Slidescope
+https://colorstech.net/practice-datasets/digital-marketing-performance-dataset-by-slidescope-for-data-analytics-and-bi-projects/
 ---
 
 ## 🧹 **Data Cleaning & Preparation**
 
-The dataset included real-world issues such as:
+The dataset included issues such as:
 
 * Missing values (nulls)
 * Inconsistent formatting
@@ -40,7 +44,7 @@ To make the dataset usable, I cleaned and transformed it using:
 
 ---
 
-## 🎯 **Key Insights**
+## 📊 **Key Findings**
 
 ### **Product Performance**
 
